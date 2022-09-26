@@ -1,3 +1,3 @@
 import os
 
-directory name = os.path.dirname(_file_)
+directory_name = os.path.dirname(_file_)
